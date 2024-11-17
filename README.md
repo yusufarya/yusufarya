@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am the first of two brother and I graduate of BSI university in the faculty of infomatics management, i want to be a webdev.<br>🔭 I’m currently Shan Informasi Sistem<br>
+I am the first of two brother and I graduate of BSI university in the faculty of infomatics management, i want to be a webdev.<br>🔭 <br>
 
 
 ## 🌐 Socials:
